@@ -15,5 +15,3 @@ export const UserList = props => (
         </Datagrid>
     </List>
 );
-
-
